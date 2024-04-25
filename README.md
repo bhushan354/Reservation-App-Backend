@@ -95,8 +95,8 @@ The front-end repo is available [here](https://github.com/bhushan354/Full-Stack-
 
 ```sh
   cd [YOUR FOLDER]
-  git clone git@github.com:bhushan354/Full-Stack-Capstone-Backend.git
-  cd Full-Stack-Capstone-Backend
+  git clone git@github.com:bhushan354/Reservation-App-Backend.git
+  cd Reservation-App-Backend
 ```
 - open the folder in your code editor
 
