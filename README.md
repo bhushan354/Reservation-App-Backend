@@ -2,7 +2,35 @@
 
 An API backend for managing vehicle reservations, built with Ruby on Rails.
 
-## 🛠 Setup Instructions
+
+## 🐳 Docker Setup (Recommended)
+
+1. **Build and start services:**
+   ```bash
+   docker compose build
+   
+   docker compose up
+
+   docker compose exec backend bash
+   
+   // then inside the container app bash run following commands
+
+   rails db:drop
+   rails db:create
+   rails db:migrate
+   rails db:seed
+   ```
+
+2. **Access API documentation:**
+
+http://127.0.0.1:3000/api-docs/index.html
+
+2. **To run the frontend for this project, visit:**
+
+https://github.com/bhushan354/Reservation-App-Frontend
+
+
+## 🛠 Local Setup Instructions
 
 1. **Clone the repository:**
    ```bash
