@@ -30,7 +30,7 @@ An API backend for managing vehicle rental & reservations, built with Ruby on Ra
 
 - http://127.0.0.1:3000/api-docs/index.html
 
-- Now Headover To Frontend-Repo and follow Docker setup to make sure your app is working fine with React as a frontend : https://github.com/bhushan354/Reservation-App-Backend
+- Now Headover To Frontend-Repo and follow Docker setup to make sure your app is working fine with React as a frontend : https://github.com/bhushan354/Reservation-App-Frontend
 
 
 ## 🛠 Local Setup Instructions 
